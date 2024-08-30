@@ -58,7 +58,7 @@ This repository contains the work I completed during my internship at CodSoft, f
 
 - *To-Do List*: Explore online storage solutions to save tasks across sessions.
 - *Tic-Tac-Toe Game*: Implement multiplayer functionality with remote players using online platforms.
-- *Library Management System*: Future enhancements could include implementing a graphical user interface (GUI), integrating a database for persistent storage, and adding user authentication and detailed reporting features.
+- *Library Management System*: Implementing a graphical user interface (GUI), integrating a database for persistent storage, and adding user authentication and detailed reporting features.
 
 ## Acknowledgements
 I would like to thank CodSoft for providing this internship opportunity and for their guidance throughout the project. Their support has been instrumental in enhancing my C++ programming skills.
