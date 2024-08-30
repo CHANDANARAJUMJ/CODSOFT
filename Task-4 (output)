@@ -1,0 +1,101 @@
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5): 1
+Enter the task name: Reading
+Task added: Reading
+
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5): 1
+Enter the task name: pa  eati    Vrea    Breakfast
+Task added: Breakfast
+
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5): 1
+Enter the task name: Ra eadinf       Coding
+Task added: Coding
+
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5): 2
+Enter the name of the task to mark as completed:  BreakFast     kfast
+Task ' Breakfast' not found.
+
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5): 4
+Task List:
+Task: Reading | Status: Pending
+Task: Breakfast | Status: Pending
+Task: Coding | Status: Pending
+
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5): 2
+Enter the name of the task to mark as completed: Reading
+Task 'Reading' has been marked as completed.
+
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5): B 2
+Enter the name of the task to mark as completed: V Breakfast
+Task 'Breakfast' has been marked as completed.
+
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5):   3
+Enter the name of the task to remove: Breakfast
+Task 'Breakfast' has been removed.
+
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5): 4
+Task List:
+Task: Reading | Status: Completed
+Task: Coding | Status: Pending
+
+=== To-Do List Manager ===
+1. Add Task
+2. Mark Task as Completed
+3. Remove Task
+4. Display Tasks
+5. Exit
+Please select an option (1-5): 5
+Exiting the program. Goodbye!
