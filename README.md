@@ -17,9 +17,9 @@ This repository contains the work I completed during my internship at CodSoft, f
 - *Project Name*: Tic-Tac-Toe Game, To-Do List, Library Management System
 - *Description*:
    - *Tic-Tac-Toe Game*:
-    - User-friendly interface for input.
-    - Game logic to check for win/draw conditions.
-    - Reset functionality to start a new game after completion.
+      - User-friendly interface for input.
+      - Game logic to check for win/draw conditions.
+      - Reset functionality to start a new game after completion.
   
   - *To-Do List*:
     - Add tasks with descriptions.
