@@ -29,12 +29,12 @@ This repository contains the work I completed during my internship at CodSoft, f
   - *Library Management System*: A console-based application that enables users to manage and organize a library's collection of books. The system allows users to add new books, search 
      for existing books, update book details, and remove books from the collection. It also provides functionalities for tracking borrowed books and returning them.
     - *Key Features*:
-      -Book Database: Books are stored in a vector, with each book having attributes like title, author, ISBN, and availability status.
-      -Book Search: The search function allows users to find books by title, author, or ISBN.
-      -Book Checkout: The system checks if the book is available and assigns it to a borrower.
-      -Book Return: It updates the availability status and calculates fines for overdue books.
-      -Fine Calculation: A simple calculation based on the number of days the book is overdue.
-      -User Interface: A basic console-based interface for interaction.
+         - Book Database: Books are stored in a vector, with each book having attributes like title, author, ISBN, and availability status.
+         - Book Search: The search function allows users to find books by title, author, or ISBN.
+         - Book Checkout: The system checks if the book is available and assigns it to a borrower.
+         - Book Return: It updates the availability status and calculates fines for overdue books.
+         - Fine Calculation: A simple calculation based on the number of days the book is overdue.
+         - User Interface: A basic console-based interface for interaction.
 
 ## Tools and Technologies
 
